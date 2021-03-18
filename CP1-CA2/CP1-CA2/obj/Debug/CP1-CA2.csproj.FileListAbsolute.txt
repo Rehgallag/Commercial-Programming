@@ -1,0 +1,7 @@
+O:\Academic_Subjects_2020_2021\Sem4\Commercial Programming\CA2\CP1-CA2\CP1-CA2\bin\Debug\CP1-CA2.exe.config
+O:\Academic_Subjects_2020_2021\Sem4\Commercial Programming\CA2\CP1-CA2\CP1-CA2\bin\Debug\CP1-CA2.exe
+O:\Academic_Subjects_2020_2021\Sem4\Commercial Programming\CA2\CP1-CA2\CP1-CA2\bin\Debug\CP1-CA2.pdb
+O:\Academic_Subjects_2020_2021\Sem4\Commercial Programming\CA2\CP1-CA2\CP1-CA2\obj\Debug\CP1-CA2.csprojAssemblyReference.cache
+O:\Academic_Subjects_2020_2021\Sem4\Commercial Programming\CA2\CP1-CA2\CP1-CA2\obj\Debug\CP1-CA2.csproj.CoreCompileInputs.cache
+O:\Academic_Subjects_2020_2021\Sem4\Commercial Programming\CA2\CP1-CA2\CP1-CA2\obj\Debug\CP1-CA2.exe
+O:\Academic_Subjects_2020_2021\Sem4\Commercial Programming\CA2\CP1-CA2\CP1-CA2\obj\Debug\CP1-CA2.pdb
